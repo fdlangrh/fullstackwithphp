@@ -1,0 +1,46 @@
+.tbl1 {
+    margin-left: 40px;
+    margin-right: 40px;
+    place-items: center;
+}
+
+.btn3 {
+    place-items: center;
+}
+
+.table-all {
+    place-content: center;
+    margin-right: 40px;
+    margin-left: 400px;
+}
+
+.tbl3 {
+    margin-right: 40px;
+    margin-left: 40px;
+    place-items: center;
+}
+
+.txt {
+    font-size: 18px;
+    margin-left: 0px;
+    margin-right: 0px;
+    place-items: right;
+    background-color: rgb(32, 128, 218);
+    color: white;
+    border-radius: 100%;
+    
+}
+
+.plc {
+    margin-left: 50%;
+    width: 50%;
+    
+}
+img{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    place-items: center;
+}
+.bungkus{
+    margin-top: 300px;
+}
